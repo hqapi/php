@@ -24,7 +24,7 @@ manually handling HTTP requests or cURL calls.
 Install via Composer:
 
 ```bash
-composer require hqapi/client
+composer require hqapi/hqapi-client
 ```
 
 Autoloading is handled automatically by Composer.

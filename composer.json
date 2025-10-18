@@ -1,6 +1,6 @@
 {
     "name": "hqapi/hqapi-client",
-    "description": "A PHP client for the API services at HQAPI.com",
+    "description": "A PHP client for the API services at HQAPI.com. Get your API token at https://hqapi.com/",
     "require": {
         "php": ">=8.2"
     },
@@ -8,5 +8,6 @@
         "psr-4": {
             "HQAPI\\": "src/HQAPI/"
         }
-    }
+    },
+    "license": "MIT"
 }
